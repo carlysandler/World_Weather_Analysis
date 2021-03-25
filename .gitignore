@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 config_challenge.py
+config_challenge2.py
 # Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
