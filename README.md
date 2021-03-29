@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-** Analysis of World Weather Information using APIs & Jupyter Notebook**
+_Analysis of World Weather Information using APIs & Jupyter Notebook_
 ---
 ## Overview of Project:
 The purpose of this project was to build the backend coding script for app, which would allow  to allow customers of "PlanMyTrip" to input their temperature preferences and receive a customized vacation search and respective Itinerary--the app is built using Jupyter Notebook, Python, and APIs from OpenWeatherApp and Gmaps.
